@@ -3,7 +3,7 @@ StudySnap helps you study smarter by tracking your focus and learning from your 
 
 # How to run 
 1)Clone repository or download files
-2)Install Requirements 
+2)Install Requirements \n
 3)Navigate to backend folder
 4)Run python server.js
 5)Open index.html file in frontend folder through live server or any browser
